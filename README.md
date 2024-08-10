@@ -16,5 +16,5 @@ The only clicking you need to do is:
      
 So, instead of having to manually navigate three screens and click five or so buttons, this program just requires you to pay just a bit of attention and hit (mostly) just the Enter key to clear out your backlog!
 
-## Important Notice
-### Do not change the size of the browser once it opens until you're done using this program! The code breaks when this occurs.
+### Important Notice
+Do not change the size of the browser once it opens until you're done using this program! The code breaks when this occurs.
