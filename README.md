@@ -15,3 +15,6 @@ The only clicking you need to do is:
      i. This is because certain Fate Episodes take longer to load, and therefore by putting this check in the program won't break.
      
 So, instead of having to manually navigate three screens and click five or so buttons, this program just requires you to pay just a bit of attention and hit (mostly) just the Enter key to clear out your backlog!
+
+# Important Notice
+## Do not change the size of the browser once it opens until you're done using this program! The code breaks when this occurs.
